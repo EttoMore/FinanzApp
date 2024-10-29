@@ -13,6 +13,7 @@ FinanzApp risolve il problema della gestione disorganizzata delle finanze person
 Mint, YNAB (You Need A Budget), Spendee
 
 ## Requisiti Funzionali
+![Alt Text](https://yuml.me/845404c2.svg)
  ### Gestione delle Entrate e delle Spese
   * Permettere agli utenti di aggiungere, modificare e rimuovere transazioni di entrate e uscite.
   * Consentire la categorizzazione delle transazioni (es. Alimentari, Trasporti, Svago).
